@@ -29,7 +29,6 @@ Ferramentas Design: Figma
 ## Conecte-se Comigo
 
 - [LinkedIn](https://www.linkedin.com/in/matheus-honorato-486ab528b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-- https://github.com/matheushonoratodev
 - [GitHub](https://github.com/matheushonoratodev)
 
 
