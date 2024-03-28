@@ -1,12 +1,16 @@
-<h1 align="center">Olá, eu sou Matheus Honorato!</h1>
+### Olá! Sou o Matheus Honorato! 😄
 
-<p align="center">
-  <img src="https://github.com/matheus-frwk.png" alt="Foto de Perfil">
-</p>
+[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-honorato-486ab528b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+![Skills](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Skills](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Skills](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## Sobre Mim
+## Estatísticas do GitHub
+![matheushonoratodev GitHub stats](https://github-readme-stats.vercel.app/api?username=matheushonoratodev&show_icons=true&theme=dracula)
 
-Sou um entusiasta da tecnologia apaixonado por desenvolvimento de software. Tenho experiência em projetos utilizando Angular, TypeScript, Java Spring Boot, Node, Ionic e React buscando sempre aprender e aprimorar minhas habilidades.
+## Tecnologias que mais uso no dia a dia
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheushonoratodev)](https://github.com/matheushonoratodev/github-readme-stats)
+
 
 ## Linguagens e Ferramentas
 
@@ -19,10 +23,6 @@ Sou um entusiasta da tecnologia apaixonado por desenvolvimento de software. Tenh
 - HTML5 & CSS3
 - Git & GitHub
 - IntelliJ IDEA & Visual Studio Code
-
-## Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=matheus-frwk&show_icons=true&theme=radical)
 
 ## Conecte-se Comigo
 
