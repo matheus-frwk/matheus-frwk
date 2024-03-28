@@ -6,28 +6,31 @@
 ![Skills](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## Estatísticas do GitHub
-![matheushonoratodev GitHub stats](https://github-readme-stats.vercel.app/api?username=matheushonoratodev&show_icons=true&theme=dracula)
+![matheus-frwk GitHub stats](https://github-readme-stats.vercel.app/api?username=matheus-frwk&show_icons=true&theme=dracula)
 
 ## Tecnologias que mais uso no dia a dia
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheushonoratodev)](https://github.com/matheushonoratodev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-frwk)](https://github.com/matheushonoratodev/github-readme-stats)
 
 
 ## Linguagens e Ferramentas
 
-- Angular
-- TypeScript
-- Java Spring Boot
-- Node
-- Ionic
-- React
-- HTML5 & CSS3
-- Git & GitHub
-- IntelliJ IDEA & Visual Studio Code
+- Ferramentas Frontend: Angular | Ionic | React | Typescript | JavaScript | bootstrap | Angular material | FxFlex
+
+- Ferramentas Backend: Java | JPA | Hibernate | springboot | Node.Js
+
+- Banco de dados: Postegres | MySql | MongoDb
+
+- Ferramentas de ALM: Jira | Trello | azure
+
+- Versionamento: Git | Github | azure devOps
+
+Ferramentas Design: Figma
 
 ## Conecte-se Comigo
 
 - [LinkedIn](https://www.linkedin.com/in/matheus-honorato-486ab528b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - https://github.com/matheushonoratodev
 - [GitHub](https://github.com/matheushonoratodev)
+
 
 
